@@ -1,1 +1,1 @@
-# dev.github.io
+# CDN
